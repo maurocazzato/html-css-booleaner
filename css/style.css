@@ -1,0 +1,78 @@
+header{
+    height: 80px;
+    background-image: url(img/pattern.png);
+    background-color: aqua;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+
+
+#sfondo{
+
+}
+h1{
+    line-height: 4px;
+}
+
+.neretto{
+    line-height: 2px;
+    font-size: 8px;
+}
+
+.grigio{
+    color: gray;
+    line-height: 2px;
+    font-size: 12px;
+}
+
+.azzurrino{
+    color: aqua;
+}
+
+.giallo{
+    background-color: yellow;
+}
+
+.blu{
+    background-color: lightskyblue;
+}
+
+table{
+    border-spacing: 0;
+    content align: left;
+    
+}
+thead{
+    background-color: rgb(24, 176, 227);
+    color: white;
+    font-size: 9px;
+}
+
+th{
+    height: 10px;
+    border: 0;
+    text-align: left;
+}
+
+.body1{
+    background-color: lightblue;
+}
+
+td{
+    height:50%;
+    width: 25%;
+    font-size: 14px;
+}
+
+#foto1{
+    background-image: url(img/monitor.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 0%;
+}
+
+h3{
+    color: white;
+    padding: 0%;
+}
