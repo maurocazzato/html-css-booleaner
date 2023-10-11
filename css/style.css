@@ -1,14 +1,18 @@
-header{
-    height: 80px;
+/* header */
+.testa{
     background-image: url(img/pattern.png);
     background-color: aqua;
     background-size: cover;
     background-repeat: no-repeat;
-    background-size: auto;
+
 }
-
-
 #sfondo{
+    height:80px;
+
+
+}
+#logo{
+    height: 20px;
 
 }
 h1{
@@ -65,14 +69,11 @@ td{
     font-size: 14px;
 }
 
-#foto1{
+.foto1{
+    
     background-image: url(img/monitor.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-    padding: 0%;
+    margin: 0px;
+    padding: 0px;
+    color: white;
 }
 
-h3{
-    color: white;
-    padding: 0%;
-}
